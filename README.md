@@ -1,5 +1,5 @@
 # 🐪 GAMAL Meme Coin ($GAMAL)
-
+CA : FESnU27VPDqNAnwrByEe55BuX8hcdshjFSzMbZVGBAGS
 <p align="center">
   <img src="assets/logo.jpg" alt="GAMAL Logo" width="250"/>
 </p>
